@@ -1,0 +1,2 @@
+# ForSale
+Various resources with regard to draft-davids-forsalereg - a lightweight method to add digital for sale signs to domain names
