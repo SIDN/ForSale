@@ -3,4 +3,4 @@
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
-![rpp logo](media/ForSale-logo.png)
+![rpp logo](media/ForSale-banner.png)
