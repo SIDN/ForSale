@@ -36,7 +36,7 @@ Choose content type:
  5) view (show current records)
  6) done (finish)
 Enter choice (1-6): 1
-Enter asking price (or type 'cancel' to return): EU150
+Enter asking price (or type 'cancel' to return): EUR150
 Record added.
 
 Choose content type:
@@ -71,7 +71,7 @@ Choose content type:
 Enter choice (1-6): 6
 
 Final DNS zone file snippet:
-_for-sale.example.nl. IN TXT "v=FORSALE1;fval=EU150"
+_for-sale.example.nl. IN TXT "v=FORSALE1;fval=EUR150"
 _for-sale.example.nl. IN TXT "v=FORSALE1;furi=https://example.nl/for-sale.txt"
 _for-sale.example.nl. IN TXT "v=FORSALE1;ftxt=Deze domeinnaam is te koop!"
 ~~~
