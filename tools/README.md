@@ -21,6 +21,7 @@ Also see
 
 * https://forsalereg.sidnlabs.nl/demo
 * https://forsale.bitfire.nl
+* https://forsalereg.sidnlabs.nl/forsale (in Dutch 🇳🇱)
 
 ## Demo output of fs-generate
 
