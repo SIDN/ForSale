@@ -4,9 +4,9 @@
 ## It't that simple!
 
 ~~~
-_for-sale.example.nl.	60	IN	TXT	"v=FORSALE1;ftxt=This domain name is for sale. See the URL for contact information"
-_for-sale.example.nl.	60	IN	TXT	"v=FORSALE1;furi=https://domain-sale.example.com/test"
-_for-sale.example.nl.	60	IN	TXT	"v=FORSALE1;fval=USD1500"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=This domain name is for sale. See the URL for contact information"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://domain-sale.example.com/test"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ~~~
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
