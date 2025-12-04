@@ -1,7 +1,7 @@
 # 🧪 Tools to play with and test the ForSale method
 
 > [!NOTE]
-> Tools work for draft-davids-forsalereg-16
+> Tools work for draft-davids-forsalereg-16.
 
 Build:
 
