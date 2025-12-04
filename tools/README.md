@@ -15,13 +15,22 @@ A validator / syntax checker
 
 ## fs-generate.go
 
-A record generator - see demo output below
+A record generator - see demo output below.
 
 Also see
 
 * https://forsalereg.sidnlabs.nl/demo
 * https://forsale.bitfire.nl
 * https://forsalereg.sidnlabs.nl/forsale (in Dutch 🇳🇱)
+
+Some domain names to test:
+~~~
+example.nl
+example.co.nl
+bitfire.nl
+spontgat.nl
+pnawebloket.nl
+~~~
 
 ## Demo output of fs-generate
 
