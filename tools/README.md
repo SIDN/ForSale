@@ -26,10 +26,19 @@ Also see
 Some domain names to test:
 ~~~
 example.nl
-example.co.nl
+spongat.nl
 bitfire.nl
-spontgat.nl
+j78.nl
+example.co.nl
+nascar.watkins-glen.ny.us
 pnawebloket.nl
+pna-webloket.nl
+
+testdns.nl
+forsale.testdns.nl
+dynamic.testdns.nl
+परीक्षा.testdns.nl
+xn--11b5bs3a9aj6g.testdns.nl 
 ~~~
 
 ## Demo output of fs-generate
