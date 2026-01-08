@@ -2,6 +2,8 @@
 > [!TIP]
 >  Various resources with regard to [draft-davids-forsalereg](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) - a lightweight method to add digital for sale signs to domain names.
 
+Ready to sell you domain name? Why not put it up for sale with a [digital For Sale sign](https://www.sidnlabs.nl/en/news-and-blogs/a-digital-for-sale-sign-for-nl-domain-names) ?
+
 ## It's that simple!
 
 ~~~
