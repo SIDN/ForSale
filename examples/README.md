@@ -15,4 +15,3 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
-![rpp logo](media/ForSale-banner.png)
