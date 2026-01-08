@@ -1,6 +1,6 @@
 # 🪧 ForSale - a digital for sale sign on domain names
 > [!TIP]
->  Various resources with regard to draft-davids-forsalereg - a lightweight method to add digital for sale signs to domain names.
+>  Various resources with regard to [draft-davids-forsalereg](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) - a lightweight method to add digital for sale signs to domain names.
 
 ## It's that simple!
 
