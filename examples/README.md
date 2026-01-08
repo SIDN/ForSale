@@ -1,4 +1,4 @@
-# 🪧 ForSale - a digital for sale sign on domain names
+# 🪧 ForSale - Advanced usage
 > [!NOTE]
 >  Here are some more examples.
 
