@@ -1,4 +1,4 @@
-# 🪧 ForSale - Advanced usage
+# ♻️ ForSale - Advanced usage
 > [!NOTE]
 >  Here are some more (advanced) examples.
 
