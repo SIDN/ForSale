@@ -6,6 +6,7 @@ Here are some more (advanced) examples. See [draft-davids-forsalereg](https://da
 
 ~~~
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=人間が読める形式の情報がここにあります。"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=ᛞᚨᚷᚱ ᛖᚱ ᛒᛃᚨᚱᛏ"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://⠎⠑⠁⠎⠕⠝⠎⠛⠗⠑⠑⠞⠊⠝⠛⠎.sidnlabs.nl/"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 ~~~
@@ -26,6 +27,22 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 ## What is the `fcod=` tag used for?
 
 The `fcod=` tag is a flexible code that only has meaning for parties that have agreed on how to use it. It acts as a private instruction between cooperating systems, such as a domain registry and its registrars, and can be used to control what happens when a domain is for sale - for example, which page is shown or how information is displayed. It has no universal meaning, and outsiders should not attempt to interpret it.
+
+## Is there a quick way to generate 'presentation format' ?
+
+Yes! Try this:
+
+```
+python3 -c "
+s = 'v=FORSALE1;ftxt=😀'; 
+print(''.join(c if ord(c) < 128 else ''.join(f'\\{b:03d}' for b in c.encode('utf-8')) for c in s))
+"
+```
+The output will be:
+
+`v=FORSALE1;ftxt=\240\159\152\128`
+
+Obvisously this is just a simple quick example. There are also better ways.
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
