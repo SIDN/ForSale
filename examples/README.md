@@ -42,7 +42,7 @@ The output will be:
 
 `v=FORSALE1;ftxt=\240\159\152\128`
 
-Obvisously this is just a simple quick example. There are also better ways.
+Obvisously this is just a simple quick example. There are probably better ways.
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
