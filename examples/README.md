@@ -19,6 +19,9 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 
 > [!NOTE]
 > Please note that representing a '😀' in a ForSale TXT record consumes not one, but four characters as the example above shows.
+
+> [!TIP]
+> This little one liner might help to test things: `dig TXT _for-sale.example.nl +short | perl -pe 's/\\([0-9]{3})/chr($1)/ge'`
  
 ## What is the `fcod=` tag used for?
 
