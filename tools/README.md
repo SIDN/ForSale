@@ -14,7 +14,7 @@ go build name.go
 A basic validator / syntax checker
 
 > [!TIP]
-> If you are a developer who wants to write your own tools, make sure to carefully read [the draft](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) of the [checklist](forsale_checklist.md).
+> If you are a developer who wants to write your own tools, make sure to carefully read [the draft](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) or the [implementation checklist](forsale_checklist.md).
 
 ## fs-generate.go
 
