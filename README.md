@@ -5,7 +5,7 @@ Various resources with regard to [draft-davids-forsalereg](https://datatracker.i
 > [!TIP]
 > Find out here how the ForSale method works.
 
-Ready to sell your domain name? Why not put it up for sale with a [digital For Sale sign](https://www.sidnlabs.nl/en/news-and-blogs/a-digital-for-sale-sign-for-nl-domain-names) ?
+🎉 Ready to sell your domain name? Why not put it up for sale with a [digital For Sale sign](https://www.sidnlabs.nl/en/news-and-blogs/a-digital-for-sale-sign-for-nl-domain-names) ?
 
 ## It's that simple!
 
