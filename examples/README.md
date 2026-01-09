@@ -1,6 +1,6 @@
 # 🪧 ForSale - Advanced usage
 > [!NOTE]
->  Here are some more examples.
+>  Here are some more (advanced) examples.
 
 ## 🌐 Unicode
 
