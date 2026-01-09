@@ -16,7 +16,7 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ~~~
 
 > [!IMPORTANT]
-> Make sure to add the version tag `v=FORSALE1;` in front, followed a content tag (like `ftxt=`) before entering the actual content value!
+> Make sure to add the version tag `v=FORSALE1;` in front, followed by a valid content tag (like `ftxt=`) before entering the actual content value!
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
