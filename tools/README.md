@@ -11,11 +11,14 @@ go build name.go
 
 ## fs-check.go
 
-A validator / syntax checker
+A basic validator / syntax checker
+
+> [!TIP]
+> If you are a developer who wants to write your own tools, make sure to carefully read [the draft](https://datatracker.ietf.org/doc/draft-davids-forsalereg/).
 
 ## fs-generate.go
 
-A record generator - see demo output below.
+A basic record generator - see demo output below.
 
 Also see
 
