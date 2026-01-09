@@ -16,6 +16,9 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 > [!CAUTION]
 > It is not always possible to enter Unicode directly in DNS records and zonefiles. Sometimes a [presentation format](https://datatracker.ietf.org/doc/html/rfc1035#section-5.1) has to be used.
 > Like this: 😀 (U+1F600) → `F0 9F 98 80` → `_for-sale.example.nl.	1800	IN	TXT	"\240\159\152\128"`
+
+> [!NOTE]
+> Please note that representing a '😀' in a ForSale TXT record consumes not one, but four characters as the example above shows.
  
 ## What is the `fcod=` tag used for?
 
