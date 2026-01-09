@@ -2,7 +2,7 @@
 > [!NOTE]
 >  Here are some more examples.
 
-## Unicode
+## 🌐 Unicode
 
 ~~~
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=人間が読める形式の情報がここにあります。"
