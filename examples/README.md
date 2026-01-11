@@ -46,13 +46,13 @@ The `fcod=` tag is a flexible code that only has meaning for parties that have a
 
 ### A few `fcod=` examples:
 
-**Encoded proprietary landing page URL**
+💡 **Encoded proprietary landing page URL**
 
 A domain name registry may allow registrars to enter a "for sale" URL into its back-end system. From that URL, a unique code is generated. This code is then inserted as the value of the `fcod=`content tag in the "_for-sale" TXT record of a domain name, for example:
 
 `_for-sale.example.nl. 1800 IN TXT "v=FORSALE1;fcod=URL-S2lscm95IHdhcyBoZXJl"`
 
-**Arbitrary formatting or conditional display instructions**
+💡 **Arbitrary formatting or conditional display instructions**
 
 A party may include proprietary code containing arbitrary formatting or conditional display instructions, such as adding an extra banner (for example, "eligibility criteria apply") or specifying a particular style, including color, font, emojis, or logos. For example:
 
@@ -60,7 +60,7 @@ A party may include proprietary code containing arbitrary formatting or conditio
 
 `_for-sale.example.nl. 1800 IN TXT "v=FORSALE1;fcod=LOGO-AHMAYQBsAGUALgBqAHAAZw=="`
 
-**Digital signatures**
+💡 **Digital signatures**
 
 A party could include a digital signature for various reasons, for example to prove that it has validated a particular furi= value. For example:
 
