@@ -13,7 +13,7 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ~~~
 
 > [!IMPORTANT]
-> Make sure to add the version tag `v=FORSALE1;` in front, followed by a valid content tag (like `ftxt=`) before entering the actual content value!
+> 🚨 Make sure to add the version tag `v=FORSALE1;` first, followed by a valid content tag (such as `ftxt=` or `furi=`) before entering the actual content value. Only then does it count as an official "for sale" sign that specialized tools will recognize.
 
 > [!TIP]
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
