@@ -32,17 +32,9 @@ The `fcod=` tag is a flexible code that only has meaning for parties that have a
 
 **Encoded proprietary landing page URL**
 
-A domain name registry may allow registrars to enter a "for sale" URL into its back-end system. From that URL, a unique code is generated. This code is then inserted as the value of the `fcod=`content tag in the "_for-sale" TXT record of a domain name, as shown in the example below.
+A domain name registry may allow registrars to enter a "for sale" URL into its back-end system. From that URL, a unique code is generated. This code is then inserted as the value of the `fcod=`content tag in the "_for-sale" TXT record of a domain name, for example:
 
-When a user checks the availability of a domain name using a registry-provided tool (for example, a web interface), the registry may use this code to redirect the user to the appropriate "for sale" URL. This URL may include a query component containing the domain name, for example:
-
-`https://forsale-url.example.com/exco?d=example.org`
-
-The rationale for this approach is that the controlling parties retain authority over redirection URLs and any other information derived from the content tag. This helps prevent users from being redirected to unintended or malicious destinations or from being presented with unintended content. In addition, this approach allows the interpretation of `fcod=` content values to be adjusted centrally in back-end systems (for example, determining which "for sale" URL to redirect to) without requiring modifications to the "_for-sale" TXT records.
-
-The following example shows a string encoded using Base64, preceded by the prefix EXCO- ('Example Company'), used as the value of the content tag:
-
-`_for-sale.example.nl. 1800 IN TXT "v=FORSALE1;fcod=EXCO-S2lscm95IHdhcyBoZXJl"`
+`_for-sale.example.nl. 1800 IN TXT "v=FORSALE1;fcod=URL-S2lscm95IHdhcyBoZXJl"`
 
 **Arbitrary formatting or conditional display instructions**
 
