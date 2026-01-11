@@ -23,7 +23,23 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 
 > [!TIP]
 > This little one liner might help to test things: `dig TXT _for-sale.example.nl +short | perl -pe 's/\\([0-9]{3})/chr($1)/ge'`
- 
+
+## Is there a quick way to generate 'presentation format' ?
+
+Yes! Try this:
+
+```
+python3 -c "
+s = 'v=FORSALE1;ftxt=😀'; 
+print(''.join(c if ord(c) < 128 else ''.join(f'\\{b:03d}' for b in c.encode('utf-8')) for c in s))
+"
+```
+The output will be:
+
+`v=FORSALE1;ftxt=\240\159\152\128`
+
+Obvisously this is just a simple quick example. There are probably better ways.
+
 ## What is the `fcod=` tag used for?
 
 The `fcod=` tag is a flexible code that only has meaning for parties that have agreed on how to use it. It acts as a private instruction between cooperating systems, such as a domain registry and its registrars, and can be used to control what happens when a domain is for sale - for example, which page is shown or how information is displayed. It has no universal meaning, and outsiders should not attempt to interpret it.
@@ -52,23 +68,6 @@ A party could include a digital signature for various reasons, for example to pr
 
 > [!IMPORTANT]
 > Remember: `fcod=` content values only have meaning between parties that have agreed on their use. They have no universal meaning, unlike the `furi=` and `fval=` content tag-value pairs.
-
-
-## Is there a quick way to generate 'presentation format' ?
-
-Yes! Try this:
-
-```
-python3 -c "
-s = 'v=FORSALE1;ftxt=😀'; 
-print(''.join(c if ord(c) < 128 else ''.join(f'\\{b:03d}' for b in c.encode('utf-8')) for c in s))
-"
-```
-The output will be:
-
-`v=FORSALE1;ftxt=\240\159\152\128`
-
-Obvisously this is just a simple quick example. There are probably better ways.
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
