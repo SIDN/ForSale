@@ -67,7 +67,7 @@ A party could include a digital signature for various reasons, for example to pr
 `_for-sale.example.nl. 1800 IN TXT "v=FORSALE1;fcod=SIG-AGQAYQBzAGQAYQBzAGQACg=="`
 
 > [!IMPORTANT]
-> Remember: `fcod=` content values only have meaning between parties that have agreed on their use. They have no universal meaning, unlike the `furi=` and `fval=` content tag-value pairs.
+> Remember: `fcod=` content values only have meaning between parties that have agreed on their use. They have no universal meaning, unlike the `furi=` and `fval=` content tag-value pairs. Let us know if you use it for something cool!
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
