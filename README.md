@@ -1,6 +1,6 @@
 # 🪧 ForSale - a digital for sale sign on domain names
 
-Various resources with regard to [draft-davids-forsalereg](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) - a lightweight method to add digital for sale signs to domain names.
+Various resources with regard to [draft-davids-forsalereg](https://datatracker.ietf.org/doc/draft-davids-forsalereg/)[^1] - a lightweight method to add digital for sale signs to domain names.
 
 🎉 Ready to sell your domain name? Why not put it up for sale with a [digital For Sale sign](https://www.sidnlabs.nl/en/news-and-blogs/a-digital-for-sale-sign-for-nl-domain-names) ?
 
@@ -21,3 +21,5 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
 ![rpp logo](media/ForSale-banner.png)
+
+[^1]: https://datatracker.ietf.org/doc/draft-davids-forsalereg/
