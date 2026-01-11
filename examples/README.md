@@ -44,7 +44,7 @@ Obvisously this is just a simple quick example. There are probably better ways.
 
 The `fcod=` tag is a flexible code that only has meaning for parties that have agreed on how to use it. It acts as a private instruction between cooperating systems, such as a domain registry and its registrars, and can be used to control what happens when a domain is for sale - for example, which page is shown or how information is displayed. It has no universal meaning, and outsiders should not attempt to interpret it.
 
-### A few `fcod=` examples
+### A few `fcod=` examples:
 
 **Encoded proprietary landing page URL**
 
