@@ -31,7 +31,7 @@ Yes! Try this:
 ```
 python3 -c "
 s = 'v=FORSALE1;ftxt=😀'; 
-print(''.join(c if ord(c) < 128 else ''.join(f'\\{b:03d}' for b in c.encode('utf-8')) for c in s))
+print(''.join(c if ord(c) < 128 else ''.join(f'\\\\{b:03d}' for b in c.encode('utf-8')) for c in s))
 "
 ```
 The output will be:
