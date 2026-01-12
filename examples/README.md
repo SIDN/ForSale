@@ -24,7 +24,7 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=JPY235566"
 > [!TIP]
 > This little one liner might help to test things: `dig TXT _for-sale.example.nl +short | perl -pe 's/\\([0-9]{3})/chr($1)/ge'`
 
-## Is there a quick way to generate 'presentation format' ?
+## 🛒 Is there a quick way to generate 'presentation format' ?
 
 Yes! Try this:
 
@@ -40,11 +40,11 @@ The output will be:
 
 Obvisously this is just a simple quick example. There are probably better ways.
 
-## What is the `fcod=` tag used for?
+## 🤖 What is the `fcod=` tag used for?
 
 The `fcod=` tag is a flexible code that only has meaning for parties that have agreed on how to use it. It acts as a private instruction between cooperating systems, such as a domain registry and its registrars, and can be used to control what happens when a domain is for sale - for example, which page is shown or how information is displayed. It has no universal meaning, and outsiders should not attempt to interpret it.
 
-### A few `fcod=` examples:
+### 🧩 A few `fcod=` examples:
 
 💡 **Encoded proprietary landing page URL**
 
