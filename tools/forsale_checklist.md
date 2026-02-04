@@ -179,11 +179,6 @@
 - [ ] SHOULD indicate data source (DNS TXT record)
 - [ ] SHOULD provide fallback to WHOIS/RDAP if content missing/invalid
 
-## IANA Considerations
-- [ ] Entry required in "Underscored and Globally Scoped DNS Node Names" registry
-- [ ] RR Type: TXT
-- [ ] Node Name: _for-sale
-
 ## Testing Checklist
 
 ### Valid Record Tests
