@@ -18,6 +18,8 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 > [!TIP]
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
 
+ℹ️ More info here: https://forsalrereg.sidnlabs.nl/
+
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
 ![rpp logo](media/ForSale-banner.png)
