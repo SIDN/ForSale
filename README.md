@@ -20,6 +20,11 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 
 ℹ️ More info here: https://forsalereg.sidnlabs.nl/
 
+## About ForSale
+
+> ForSale is a standardized "_for-sale" DNS name for domain names to signal that it is is available for purchase (or lease). The proposal addresses a common operational need: providing a machine-readable, globally consistent mechanism to indicate that domains are for sale, complementing inconsistent web-based parking pages and proprietary signaling methods.
+
+
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
 ![rpp logo](media/ForSale-banner.png)
