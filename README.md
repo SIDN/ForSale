@@ -24,7 +24,12 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 
 > **ForSale** is a standardized "_for-sale" DNS name for signaling that a domain name is available for purchase (or lease). The proposal addresses a common operational need by providing a machine-readable, globally consistent mechanism to indicate that domains are for sale, complementing inconsistent web-based parking pages and proprietary signaling methods.
 
+## Why ForSale?
 
+- **Machine-readable** – systems can automatically detect which domains are for sale.
+- **Globally consistent** – the same mechanism works across top-level domains worldwide.
+- **Supports automation** – helps domain brokers, domain investors, and acquisition tools reliably discover domains for sale.
+- **Lightweight** – uses the DNS, so no extra infrastructure or web scraping is needed.
 
 ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
 
