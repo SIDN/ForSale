@@ -1,6 +1,6 @@
 # ⚠️ ForSale - Common mistakes observed in the wild
 
-Here are some more mistakes we encountered in the wild
+Here are some more mistakes we encountered in the wild:
 
 ## ❗ Ambiguous Constructs
 
