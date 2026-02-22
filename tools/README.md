@@ -34,6 +34,8 @@ bitfire.nl
 j78.nl
 example.co.nl
 nascar.watkins-glen.ny.us
+vitesse.arnhem.nl.eu.org
+cours-dns.fr
 pnawebloket.nl
 pna-webloket.nl
 
