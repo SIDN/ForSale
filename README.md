@@ -4,13 +4,15 @@ Various resources with regard to [draft-davids-forsalereg](https://datatracker.i
 
 🎉 Ready to sell your domain name? Why not put it up for sale with a [digital For Sale sign](https://www.sidnlabs.nl/en/news-and-blogs/a-digital-for-sale-sign-for-nl-domain-names) ?
 
-## It's that simple!
+## 👩🏻‍💻 It's that simple!
 
 ~~~
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=Some human-readable info here."
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://domain-sale.example.com/test"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ~~~
+
+Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expert.bitfire.nl) (an 🧠 AI agent).
 
 > [!IMPORTANT]
 > 🚨 Make sure to add the version tag `v=FORSALE1;` first, followed by a valid content tag (such as `ftxt=` or `furi=`) before entering the actual content value. Only then does it count as an official "for sale" sign that specialized tools will recognize.
