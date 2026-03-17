@@ -22,7 +22,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 
 ℹ️ More info here: https://forsalereg.sidnlabs.nl/
 
-🎓 Want to learn with help of a little AI ? Try the [experimental AI agent](https://expert.bitfire.nl) and put it to the test (in your own language) !
+🎓 Want to **learn** with help of a little AI ? Try the [experimental AI agent](https://expert.bitfire.nl) and put it to the test (in your own language) !
 
 ## ⓘ About ForSale
 
