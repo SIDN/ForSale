@@ -1,6 +1,6 @@
 # 🧪 Tools to play with and test the ForSale method
 
-🧠 Want to **learn** with help of a little AI ? Try the [experimental AI agent](https://expert.bitfire.nl) and put it to the test (in your own language) !
+🧠 Want to **learn** with help of a little AI ? Try the [experimental 🤖 AI agent](https://expert.bitfire.nl) and put it to the test (in your own language) !
 
 > [!NOTE]
 > Tools work for draft-davids-forsalereg-16.
