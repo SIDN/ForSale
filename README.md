@@ -22,6 +22,8 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 
 ℹ️ More info here: https://forsalereg.sidnlabs.nl/
 
+🎓 Want to learn with help of a little AI ? Try the [experimental AI agent](https://expert.bitfire.nl) and put it to the test (in your own language) !
+
 ## ⓘ About ForSale
 
 > **ForSale** is a standardized "_for-sale" DNS name for signaling that a domain name is available for purchase (or lease). The proposal addresses a common operational need by providing a machine-readable, globally consistent mechanism to indicate that domains are for sale, complementing inconsistent web-based parking pages and proprietary signaling methods.
