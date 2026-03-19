@@ -8,7 +8,7 @@ Various resources with regard to [draft-davids-forsalereg](https://datatracker.i
 
 ~~~
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=Some human-readable info here."
-_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://domain-sale.example.com/test"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://domain-sale.example.com/contact"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=USD1500"
 ~~~
 
