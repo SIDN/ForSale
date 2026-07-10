@@ -20,6 +20,9 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 > [!TIP]
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
 
+> [!CAUTION]
+> The _for-sale method documented here predates `forsaletxt.org`. The latter is an unrelated proposal and should not be confused with the original _for-sale method.
+
 ℹ️ More info here: https://forsalereg.sidnlabs.nl/
 
 ## ⓘ About ForSale
