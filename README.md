@@ -22,7 +22,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 
 ℹ️ More info here: https://forsalereg.sidnlabs.nl/
 
-## Check our one pager on http://forsaletxt.nl
+## 👀 Check our one pager on http://forsaletxt.nl
 > [!CAUTION]
 > The _for-sale method documented here predates `forsaletxt.org`. The latter is an unrelated proposal and should not be confused with the original _for-sale method.
 
